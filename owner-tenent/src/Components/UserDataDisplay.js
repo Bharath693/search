@@ -12,6 +12,9 @@ function UserDataDisplay({data}){
                     <tr>
                         <th>Search to find the perfect house</th>
                         <th><SearchInput sendData = {data}/></th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
                     </tr>
                     <tr>
                         <th>S.no</th>
