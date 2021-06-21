@@ -34,9 +34,8 @@ function SerachInput({sendData}){
                            <td>{item.id}</td>
                            <td>{item.house}</td>
                            <td>{item.street}</td>
-                           <td>{item.country}
+                           <td>{item.country} </td>
                            <td>${item.price}.00</td>
-                           </td>
                        </tr>
                    </tbody>
                </Table> 
